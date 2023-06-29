@@ -1,0 +1,3 @@
+Basket 1: ****
+Basket 2: *******
+Basket 3: ***
